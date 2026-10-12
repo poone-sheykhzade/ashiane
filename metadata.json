@@ -1,0 +1,6 @@
+{
+  "name": "آشیانه | سامانه رزرواسیون اقامتگاه‌های مبله لوکس",
+  "description": "پلتفرم جامع اجاره روزانه، ماهانه و سالانه پنت‌هاوس، ویلا و آپارتمان‌های مبله در تهران و ایران با پرداخت مستقیم شاپرک",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
